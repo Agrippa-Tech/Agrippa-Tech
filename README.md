@@ -20,9 +20,8 @@
 </a>
 
 <a href="https://github.com/Agrippa-Tech/ConatusGames">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
-  
   
 
 
