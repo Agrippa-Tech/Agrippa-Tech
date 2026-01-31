@@ -1,30 +1,30 @@
 # Agrippa
-
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/Agrippa-Tech?style=flat-square&color=black&labelColor=white&logo=github)](https://github.com/Agrippa-Tech)
-[![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&style=flat-square&label=Visualizações)](https://github.com/Agrippa-Tech)
+[![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&style=flat-square&label=Visualizações&color=black)](https://github.com/Agrippa-Tech)
   
 </div>
 
 ---
 
 ## Sobre
-
 Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonado por código limpo, boas práticas e aprendizado contínuo.
 
 ---
 
 ## Estatísticas do GitHub
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff"/>
+
+</div>
 
 <div align="center">
-
-<a href="(https://github.com/Agrippa-Tech)">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-
-![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff)
+  
+<img height="180em" src="https://streak-stats.demolab.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff"/>
 
 </div>
 
@@ -43,21 +43,23 @@ Ferramentas:    VS Code, Postman, Figma
 ---
 
 ## Repositórios em Destaque
-
 <div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Python)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Git&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Git)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/ConatusGames)
+  
+<a href="https://github.com/Agrippa-Tech/Python">
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+</a>
+<a href="https://github.com/Agrippa-Tech/Git">
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Git&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+</a>
+<a href="https://github.com/Agrippa-Tech/ConatusGames">
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+</a>
 
 </div>
 
 ---
 
 ## Gráfico de Contribuições
-
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Agrippa-Tech&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)
@@ -67,7 +69,6 @@ Ferramentas:    VS Code, Postman, Figma
 ---
 
 ## Contato
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
