@@ -45,11 +45,11 @@ Ferramentas:    VS Code, Postman, Figma
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg)](https://github.com/Agrippa-Tech/Python)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Git&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Git&theme=dark&bg)](https://github.com/Agrippa-Tech/Git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/ConatusGames)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames&theme=dark&bg)](https://github.com/Agrippa-Tech/ConatusGames)
 
 </div>
 
