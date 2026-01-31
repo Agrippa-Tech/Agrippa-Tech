@@ -3,7 +3,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/Agrippa-Tech?style=flat-square&color=black&labelColor=white&logo=github)](https://github.com/Agrippa-Tech)
-  [![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&color=black&style=flat-square&label=Profile+Views)](https://github.com/Agrippa-Tech)
+  [![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&color=white&style=flat-square&label=Profile+Views)](https://github.com/Agrippa-Tech)
   
 </div>
 
