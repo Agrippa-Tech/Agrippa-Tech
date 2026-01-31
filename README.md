@@ -19,7 +19,7 @@ Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonad
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?usernameAgrippa-Tech&show_icons=true&bg_color=00000000)
+  [![Agrippa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=false)
   
