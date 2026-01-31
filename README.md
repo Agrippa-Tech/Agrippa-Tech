@@ -3,19 +3,19 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/Agrippa-Tech?style=flat-square&color=black&labelColor=white&logo=github)](https://github.com/Agrippa-Tech)
-  [![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&color=white&style=flat-square&label=Profile+Views)](https://github.com/Agrippa-Tech)
+  [![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&color=black&style=flat-square&label=Visualizações)](https://github.com/Agrippa-Tech)
   
 </div>
 
 ---
 
-## 🎯 Overview
+## Sobre
 
-Developer focused on building efficient and scalable solutions. Passionate about clean code, best practices, and continuous learning.
+Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonado por código limpo, boas práticas e aprendizado contínuo.
 
 ---
 
-## 📊 GitHub Statistics
+## Estatísticas do GitHub
 
 <div align="center">
   
@@ -29,20 +29,20 @@ Developer focused on building efficient and scalable solutions. Passionate about
 
 ---
 
-## 🛠️ Tech Stack
+## Stack Tecnológico
 
 ```text
-Languages:      Python, JavaScript, TypeScript, Java
+Linguagens:     Python, JavaScript, TypeScript, Java
 Frontend:       React, Next.js, HTML5, CSS3
 Backend:        Node.js, Express, Django, Flask
-Database:       PostgreSQL, MongoDB, MySQL, Redis
+Banco de Dados: PostgreSQL, MongoDB, MySQL, Redis
 DevOps:         Docker, Git, GitHub Actions, AWS
-Tools:          VS Code, Postman, Figma
+Ferramentas:    VS Code, Postman, Figma
 ```
 
 ---
 
-## 📌 Featured Repositories
+## Repositórios em Destaque
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Tools:          VS Code, Postman, Figma
 
 ---
 
-## 📈 Contribution Graph
+## Gráfico de Contribuições
 
 <div align="center">
   
@@ -66,7 +66,7 @@ Tools:          VS Code, Postman, Figma
 
 ---
 
-## 🤝 Connect
+## Contato
 
 <div align="center">
   
@@ -80,7 +80,7 @@ Tools:          VS Code, Postman, Figma
 
 <div align="center">
   
-  **"Code is poetry written in logic."**
+  **"Código é poesia escrita em lógica."**
   
   ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
   
