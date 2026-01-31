@@ -16,15 +16,13 @@ Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonad
 ---
 
 ## Estatísticas do GitHub
-
 <div align="center">
   
-  [![Agrippa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  ![Agrippa GitHub stats](https://github-readme-stats.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=false)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff)
-
 </div>
 
 ---
@@ -46,12 +44,9 @@ Ferramentas:    VS Code, Postman, Figma
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=NOME_DO_REPOSITORIO_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/NOME_DO_REPOSITORIO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=NOME_DO_REPOSITORIO_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/NOME_DO_REPOSITORIO_2)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=NOME_DO_REPOSITORIO_3&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/NOME_DO_REPOSITORIO_3)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=NOME_DO_REPOSITORIO_4&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/NOME_DO_REPOSITORIO_4)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=Git_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/Git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Agrippa-Tech&repo=ConatusGames_3&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/Agrippa-Tech/ConatusGames)
 </div>
 
 ---
