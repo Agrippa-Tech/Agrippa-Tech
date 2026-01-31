@@ -1,17 +1,4 @@
-# Agrippa
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Agrippa-Tech?style=flat-square&color=black&labelColor=white&logo=github)](https://github.com/Agrippa-Tech)
-[![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&style=flat-square&label=Visualizações)](https://github.com/Agrippa-Tech)
-  
-</div>
-
----
-
-## Sobre
-Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonado por código limpo, boas práticas e aprendizado contínuo.
-
----
+# 「 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 𝐀𝐆𝐑𝐈𝐏𝐏𝐀 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 」
 
 ## Estatísticas do GitHub
 <div align="center">
@@ -24,17 +11,6 @@ Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonad
 
 ---
 
-## Stack Tecnológico
-```text
-Linguagens:     Python, JavaScript, TypeScript, Java
-Frontend:       React, Next.js, HTML5, CSS3
-Backend:        Node.js, Express, Django, Flask
-Banco de Dados: PostgreSQL, MongoDB, MySQL, Redis
-DevOps:         Docker, Git, GitHub Actions, AWS
-Ferramentas:    VS Code, Postman, Figma
-```
-
----
 
 ## Repositórios em Destaque
 <div align="center">
@@ -90,4 +66,11 @@ $$ |  $$ |  \$$$$$$  |  $$ |  $$ |  $$$$$$\   $$ |        $$ |        $$ |  $$ |
 </pre>
 
 
+</div>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/Agrippa-Tech?style=flat-square&color=black&labelColor=white&logo=github)](https://github.com/Agrippa-Tech)
+[![Profile views](https://komarev.com/ghpvc/?username=Agrippa-Tech&style=flat-square&label=Visualizações)](https://github.com/Agrippa-Tech)
+  
 </div>
