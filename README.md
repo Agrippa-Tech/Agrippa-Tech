@@ -18,7 +18,7 @@ Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonad
 ## Estatísticas do GitHub
 <div align="center">
   
-![Agrippa GitHub stats](https://github-readme-stats.vercel.app/api?username=Agrippa-Tech)
+![Agrippa GitHub stats](https://github-readme-stats.vercel.app/api?username=Agrippa-Tech&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&show_icons=true)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=false)
   
@@ -79,6 +79,6 @@ Ferramentas:    VS Code, Postman, Figma
   
   **"Código é poesia escrita em lógica."**
   
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+  ![](https://hit.yhype.me/github/profile?user_id=Agrippa-Tech)
   
 </div>
