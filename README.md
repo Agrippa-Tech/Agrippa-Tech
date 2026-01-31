@@ -15,17 +15,11 @@ Desenvolvedor focado em construir soluções eficientes e escaláveis. Apaixonad
 
 ## Estatísticas do GitHub
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agrippa-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agrippa-Tech&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 </div>
-
 <div align="center">
-  
-<img height="180em" src="https://streak-stats.demolab.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff"/>
-
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Agrippa-Tech&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff"/>
 </div>
 
 ---
