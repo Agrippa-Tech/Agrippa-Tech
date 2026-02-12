@@ -15,8 +15,16 @@
 ## Repositórios em Destaque
 <div align="center">
   
+<a href="https://github.com/Agrippa-Tech/FichamentoAutomatico-Python">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=FichamentoAutomatico-Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+</a>
+
+<a href="https://github.com/Agrippa-Tech/CifraDeCesar">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=CifraDeCesar&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
+</a>
+
 <a href="https://github.com/Agrippa-Tech/Python">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Agrippa-Tech/ConatusGames">
