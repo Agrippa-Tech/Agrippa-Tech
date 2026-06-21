@@ -13,25 +13,22 @@
 
 ## Repositórios em Destaque
 <div align="center">
-  
+
 <a href="https://github.com/Agrippa-Tech/XMRig-Miner-Analysis">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=XMRig-Miner-Analysis&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
+  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=XMRig-Miner-Analysis&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Agrippa-Tech/FFmpeg-Matplotlib">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=FFmpeg-Matplotlib&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
+  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=FFmpeg-Matplotlib&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
 
-<a href="https://github.com/Agrippa-Tech/Positivo-Motion-C4128g-ES8336-Audio-Fixn">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Positivo-Motion-C4128g-ES8336-Audio-Fix&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+<a href="https://github.com/Agrippa-Tech/Positivo-Motion-C4128g-ES8336-Audio-Fix">
+  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Positivo-Motion-C4128g-ES8336-Audio-Fix&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
-
 
 <a href="https://github.com/Agrippa-Tech/Python">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
+  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Python&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
-
-
 
 </div>
 
