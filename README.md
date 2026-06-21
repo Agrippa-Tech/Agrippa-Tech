@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/Agrippa-Tech/Positivo-Motion-C4128g-ES8336-Audio-Fix">
-  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Positivo-Motion-C4128g-ES8336-Audio-Fix&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
+  <img width="40px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Agrippa-Tech&repo=Positivo-Motion-C4128g-ES8336-Audio-Fix&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Agrippa-Tech/Python">
